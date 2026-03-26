@@ -29,6 +29,7 @@ A cybersecurity focused web tool that analyzes password strength and security pa
 
 🌐 Live Project  
 https://passwordcheck23.netlify.app/
+https://tour-shield-frontend.vercel.app/
 
 ---
 
