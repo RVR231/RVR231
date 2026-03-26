@@ -28,7 +28,7 @@ Exploring how the web works — and how to secure it.
 A cybersecurity focused web tool that analyzes password strength and security patterns.
 
 🌐 Live Project  
-https://passwordcheck23.netlify.app/
+https://passwordcheck23.netlify.app/ <br>
 https://tour-shield-frontend.vercel.app/
 
 ---
